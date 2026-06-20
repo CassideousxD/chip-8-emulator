@@ -1,0 +1,11 @@
+build/
+.vscode/
+.DS_Store
+
+*.o
+*.obj
+*.exe
+*.out
+
+cmake-build-debug/
+cmake-build-release/
