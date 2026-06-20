@@ -56,6 +56,12 @@ CHIP-8/
 │
 ├── Documents/
 │   └── README.md
+|   ├── DEVELOPMENT_LOG.md
+|   ├── LESSONS_LEARNED.md
+│   └── SCREENSHOTS
+|           ├── Emulator-Menu.png
+│           ├── Fullscreen-Preview.png
+│           └── Windowed-Preview.png
 │
 ├── src/
 │   ├── main.cpp
